@@ -1,0 +1,15 @@
+imię ucznia1 = Andryi;
+
+imię ucznia2 = "Romek";
+
+nazwisko ucznia1 = "Habor";
+
+nazwisko  ucznia2  = "Kowalski";
+
+klasa ucznia1  = "3Cg";
+
+klasa ucznia2  = "3Dg";
+
+rok_ur ucznia1  = 2003;
+
+rok_ur ucznia2 = 2004;
